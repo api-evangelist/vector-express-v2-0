@@ -1,0 +1,32 @@
+aid: vector-express-v2-0
+name: Vector Express v2.0
+description: "Free vector file converting API"
+url: https://vector.express
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Documents & Productivity"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Documents And Productivity
+  - Public APIs
+apis:
+  - name: Vector Express v2.0
+    description: "Free vector file converting API"
+    humanURL: https://vector.express
+    baseURL: https://vector.express
+    tags:
+      - Documents And Productivity
+    properties:
+      - type: Documentation
+        url: https://vector.express
+common:
+  - type: Website
+    url: https://vector.express
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
