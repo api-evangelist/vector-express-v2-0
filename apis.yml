@@ -1,10 +1,22 @@
 aid: vector-express-v2-0
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vector-express-v2-0.png
 name: Vector Express v2.0
 description: "Free vector file converting API"
 url: https://vector.express
 specificationVersion: '0.20'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-07-25'
 x-source: public-apis/public-apis
 x-category: "Documents & Productivity"
 x-tier: 3
@@ -12,16 +24,7 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Documents And Productivity
   - Public APIs
-apis:
-  - name: Vector Express v2.0
-    description: "Free vector file converting API"
-    humanURL: https://vector.express
-    baseURL: https://vector.express
-    tags:
-      - Documents And Productivity
-    properties:
-      - type: Documentation
-        url: https://vector.express
+apis: []
 common:
   - type: DomainSecurity
     url: security/vector-express-v2-0-domain-security.yml
