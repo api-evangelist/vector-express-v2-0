@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vector-exp
 name: Vector Express v2.0
 description: "Free vector file converting API"
 url: https://vector.express
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-07-25'
 x-source: public-apis/public-apis
