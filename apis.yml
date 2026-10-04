@@ -33,8 +33,9 @@ x-category: "Documents & Productivity"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Documents And Productivity
   - Public APIs
+  - File Conversion
+  - Vector Graphics
 apis: []
 common:
   - type: DomainSecurity
@@ -46,3 +47,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Documents And Productivity
